@@ -1,0 +1,2 @@
+# Python-Data-Analysis-Instragram-Reach
+If a content creator wants to do well on Instagram in the long run, they have to look at the data of their Instagram reach. That is where we can apply Data Science in social media. This analysis take the data from an Data Science Instagram account, analyze how the account is doing in terms of reach and coversion, and finally predict the reach of Instagram posts with machine learning.
